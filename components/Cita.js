@@ -57,7 +57,6 @@ const styles = StyleSheet.create({
   },
   textoEliminar: {
     color: "#fff",
-
     fontWeight: "bold",
     textAlign: "center",
   },
